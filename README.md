@@ -65,8 +65,6 @@ StudyBuddy is a user-friendly platform designed to facilitate collaborative lear
    4. then refresh your page
 
 
-
-
 ## Usage :point_up:
 
 To interact with the StudyBuddy App:
