@@ -57,7 +57,7 @@ StudyBuddy is a user-friendly platform designed to facilitate collaborative lear
 
 
 -  When you run it you might get a small issue of loading the images
-   So solve it follow the following steps
+-  To solve it follow the following steps
    ```bash
    1. Create a folder inside 'static' directory named 'images'
    2. Then go to the 'assets' folder
