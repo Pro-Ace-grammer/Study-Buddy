@@ -19,10 +19,10 @@ def login_user(request):
         return redirect('home')
 
     if request.method == 'POST':
-        email = request.POST.get('email').lower()
+        email = request.POST.get('email')
         password = request.POST.get('password')
         try:
-            user = User.objects.get(username=email)
+            user = User.objects.get(email=email)
         except:
             messages.error(request, "User Not found !")
             return redirect('login')
