@@ -56,13 +56,13 @@ StudyBuddy is a user-friendly platform designed to facilitate collaborative lear
    python manage.py runserver
 
 
-When you run it you might get a small issue of loading the images
-So solve it follow the following steps
-    ```bash
-    1. Create a folder inside 'static' directory named 'images'
-    2. Then go to the 'assets' folder
-    3. copy all the content in the 'assets' folder into the 'static/images' directory
-    4. then refresh your page
+-  When you run it you might get a small issue of loading the images
+   So solve it follow the following steps
+   ```bash
+   1. Create a folder inside 'static' directory named 'images'
+   2. Then go to the 'assets' folder
+   3. copy all the content in the 'assets' folder into the 'static/images' directory
+   4. then refresh your page
 
 
 
